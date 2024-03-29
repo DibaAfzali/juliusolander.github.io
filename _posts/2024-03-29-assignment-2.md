@@ -4,12 +4,11 @@ title:  "Assignment 2"
 date:   2024-03-29 10:20:22 +0100
 categories: jekyll update
 ---
+
 Authors: Julius Olander (s203225), Astrid Macholm & Diba
 
 ---
-layout: magazine
-title: "Assignment 2"
----
+
 
 <div class="article-content">
   <div>
@@ -33,7 +32,7 @@ In at mi semper, elementum elit vitae, iaculis augue. Ut posuere faucibus eleife
     <img class="article-image" src="/assets/images/Catalinawp.jpg" alt="Et flot billede hehe" width="500">>
 <div>
     <h2>Et meget flot plot</h2>
-    <p>Der viser kidnapninger i SF om natten. Hvor hyggeligt.</p>
+    <p>Der viser kidnapninger i SF. Hvor hyggyligt.</p>
 	{% include sf_heatmap.html %}
 </div>
     <p class="article-paragraph">
