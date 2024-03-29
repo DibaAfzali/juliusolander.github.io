@@ -31,4 +31,12 @@
   line-height: 1.6;
 }
 
-/* Add other styles as necessary... */
+/* Font style */
+
+body, button, input, select, textarea {
+  font-family: "Georgia", "Times New Roman", serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Georgia", "Times New Roman", serif;
+}
