@@ -31,6 +31,11 @@ In at mi semper, elementum elit vitae, iaculis augue. Ut posuere faucibus eleife
   </div>
   <div>
     <img class="article-image" src="/assets/images/Catalinawp.jpg" alt="Descriptive Alt Text">
+<div>
+    <h2>HTML Section Title</h2>
+    <p>This is an example paragraph in your HTML content.</p>
+	{% include sf_heatmap.html %}
+</div>
     <p class="article-paragraph">
       Continue writing your content here...
     </p>
