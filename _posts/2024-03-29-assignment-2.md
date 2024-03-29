@@ -32,7 +32,7 @@ In at mi semper, elementum elit vitae, iaculis augue. Ut posuere faucibus eleife
     <img class="article-image" src="/assets/images/Catalinawp.jpg" alt="Et flot billede hehe" width="500">>
 <div>
     <h2>Et meget flot plot</h2>
-    <p>Der viser kidnapninger i SF. Hvor hyggyligt.</p>
+    <p>Der viser kidnapninger i SF. Hvor hyggeligt.</p>
 	{% include sf_heatmap.html %}
 </div>
     <p class="article-paragraph">
